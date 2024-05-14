@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
-
+Do the laundry.
+Visit the new museum.
+Help the neighbour.
+Clean the bag.
